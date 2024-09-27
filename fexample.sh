@@ -4,7 +4,6 @@
 #
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
-git clone https://github.com/facebookresearch/MUSE.git
 cd MUSE
 
 #wget https://dl.fbaipublicfiles.com/arrival/vectors.tar.gz
